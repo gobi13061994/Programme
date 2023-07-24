@@ -12,6 +12,7 @@ public class RemoveString {
             set.add(s.charAt(i));
 
         }
+       // System.out.println(set);
         for (Character c : set) {
             System.out.print(c);
         }
